@@ -19,7 +19,7 @@ class Home extends Component {
 
               <p>
                 HTML/CSS | Bootstrap | JavaScript | React | React Native |
-                NodeJS
+               
               </p>
 
               <div className="social-links">
